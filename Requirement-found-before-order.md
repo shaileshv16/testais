@@ -1,4 +1,4 @@
-::: mermaid
+
  graph TD;
  MRK[Marketing] --> GPD([Get the preliminary details of<br> the deviations/requirements]);
 GPD-->CDEI([Contact Developer owner/scrum <br>for the emergency information])
@@ -36,5 +36,3 @@ Support-->Dep(["<span style='text-decoration: underline; text-decoration-color: 
 click Dep
 "https://dev.azure.com/smartfincore/ACS%20Project/_wiki/wikis/ACS-Project.wiki/119/Deployment-Process"
 
-
-:::
